@@ -1,0 +1,31 @@
+<div id="rside">
+    <aside>
+        <input type="text" placeholder="Search..." id="search"/>
+    </aside>
+{/*
+    <aside>
+        <h4>推荐阅读</h4>
+        <ul>
+            <li><a href="">文章标题</a>&nbsp;(1)</li>
+            <li><a href="">文章标题</a>&nbsp;(3)</li>
+            <li><a href="">文章标题</a>&nbsp;(5)</li>
+            <li><a href="">文章标题</a>&nbsp;(3)</li>
+        </ul>
+    </aside>
+*/}
+    <volist name="list" id='vo'>
+    <aside>
+        <h4>{$vo.name}</h4>
+        <ul><volist name="vo.list" id='vol'>
+            <li><a href="__CONTROLLER__/art/id/{$vol.id}">{$vol.title}</a>&nbsp;({$vol.ans_number})</li>
+        </volist></ul>
+    </aside>
+    </volist>
+    </div>
+<script>
+$('#search').keydown(function(e){
+    if(e.keyCode == 13){
+        top.location.href="__CONTROLLER__/index/title/"+this.value;
+    }
+});
+</script>

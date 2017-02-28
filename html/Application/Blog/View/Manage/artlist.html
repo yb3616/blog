@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文章列表</title>
+<link rel="stylesheet" href="__BLOG__/css/reset.css">
+<link rel="stylesheet" href="__BLOG__/css/adm.css">
+<link rel="stylesheet" href="__BLOG__/plugin/layer/skin/default/layer.css">
+<script src='__BLOG__/js/jquery.js'></script>
+<script src="__BLOG__/plugin/layer/layer.js"></script>
+</head>
+<body>
+    <include file='header' />
+    <div id="main">
+        <include file="lside" />
+        <div id="rside">
+            <table>
+                <tr>
+                    <td>序号</td>
+                    <td>日期</td>
+                    <td>标题</td>
+                    <td>分类</td>
+                    <td>回复</td>
+                    <td>状态</td>
+                </tr>
+                <volist name='data' id='vo'>
+                <tr>
+                    <td>{$vo.t_id}</td>
+                    <td>{$vo.cre_date}</td>
+                    <td><a href="__MODULE__/Public/art/id/{$vo.id}" target="_blank">{$vo.title}</a></td>
+                    <td>{$vo.name}</td>
+                    <td><span class="badge">{$vo.ans_number}</span></td>
+                    <td><a href="javascript:void(0);" onclick="layer.confirm('确认<if condition="$vo.status eq 1">隐藏<else />显示</if>操作？', {btn: ['确认','取消']}, function(){top.location.href='__CONTROLLER__/hide/id/{$vo.id}/status/{$vo.status}'});"><switch name='vo.status'>
+                        <case value="1">已发布</case>
+                        <case value="0">已隐藏</case>
+                    </switch></a></td>
+                </tr>
+                </volist>
+            </table>
+            <div id="pagebar">{$pages}</div>
+        </div>
+    </div>
+    <include file='Public/footer' />
+</body>
+</html>

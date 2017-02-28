@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{$data.title}</title>
+<link rel="stylesheet" href="__BLOG__/css/reset.css">
+<link rel="stylesheet" href="__BLOG__/css/index.css">
+<link rel="stylesheet" href="__BLOG__/css/art.css">
+{// ue 代码高亮}
+<link rel="stylesheet" href="__BLOG__/plugin/ue/third-party/SyntaxHighlighter/shCoreDefault.css">
+<script src="__BLOG__/plugin/ue/third-party/SyntaxHighlighter/shCore.js"></script>
+<script>SyntaxHighlighter.all();</script>
+<link rel="stylesheet" href="__BLOG__/plugin/layer/skin/default/layer.css">
+<script src="__BLOG__/js/jquery.js"></script>
+<script src="__BLOG__/plugin/layer/layer.js"></script>
+</head>
+<body>
+    <include file='header' />
+    <div id="main">
+        <div id="lside">
+            <article>
+                <h2><a href="javascript:void(0);">{$data.title|default='该文章已删除'}</a></h2>
+                <div class="entry_header">
+                    <time>{$data.cre_date|default='NULL'}</time>
+                    by
+                    <a href="javascript:void(0);">姚斌</a>
+                    <a class="catlink" href="__CONTROLLER__/index/catid/{$data.id}">{$data.name|default='NULL'}</a>
+                    <a class="comment" href="#comments">{$data.ans_number|default='NULL'}条评论</a>
+                </div>
+                <div class="entry_content">{$data.content|default='NULL'}</div>
+            </article>
+            <div id="comments">
+            <volist name="comment" id="vo">
+                <ol>
+                    <li>
+                        <img src="__BLOG__/img/icon_head.png" alt="">
+                        <cite><a href="javascript:void(0);" onclick="layer.tips('E-mail:&nbsp;&nbsp;{$vo.email}', this, {tips:[1, '#3595cc'],time: 4000});">{$vo.name}</a></cite> <br>
+                        <time>{$vo.cre_time}</time>
+                    </li>
+                    <li>{$vo.content}</li>
+                </ol>
+            </volist>
+            </div>
+            <div id="respond" class="comment-respond">
+                <h3>Leave a Comment</h3>
+                <form action="__CONTROLLER__/comment" method="post">
+                <p>
+                    <input placeholder="your name" name="name" type="text" value="" size="30">
+                </p>
+                <p>
+                    <input placeholder="Email" name="email" type="text" value="" size="30">
+                </p>
+                <p>
+                    <textarea name="content" cols="45" rows="8" aria-required="true"></textarea>
+                </p>
+                <input type="hidden" name="art_id" value="{$id}" />
+                <p>
+                    <input type="submit" value="Post Comment">
+                </p>
+                </form>
+            </div>
+        </div>
+        <include file="rside" />
+    </div>
+    <include file="footer" />
+<script>
+$(function(){
+    SyntaxHighlighter.highlight();
+    $("table.syntaxhighlighter").each(function () {
+        if (!$(this).hasClass("nogutter")) {
+            var $gutter = $($(this).find(".gutter")[0]);
+            var $codeLines = $($(this).find(".code .line"));
+            $gutter.find(".line").each(function (i) {
+                $(this).height($($codeLines[i]).height());
+                $($codeLines[i]).height($($codeLines[i]).height());
+            });
+        }
+    });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>发布文章</title>
+<link rel="stylesheet" href="__BLOG__/css/reset.css">
+<link rel="stylesheet" href="__BLOG__/css/adm.css">
+{/* UEDITOR要求引入文件 */}
+<script src='__BLOG__/plugin/ue/ueditor.config.js'></script>
+<script src='__BLOG__/plugin/ue/ueditor.all.min.js'></script>
+<script src='__BLOG__/plugin/ue/lang/zh-cn/zh-cn.js'></script>
+</head>
+<body>
+    <include file="header" />
+    <div id="main">
+        <include file="lside" />
+        <div id="rside">
+            <form action="" method="post">
+                <div class="form-group">
+                    <label>标题:</label>
+                    <p>
+                        <input type="text" name="title">
+                    </p>
+                </div>
+                <div class="form-group">
+                    <label>栏目:</label>
+                    <p>
+                        <select name="cat_id">
+                            <volist name="data" id="vo">
+                                <option value="{$vo.id}">{$vo.name}</option>
+                            </volist>
+                        </select>
+                    </p>
+                </div>
+                <div class="form-group">
+                    <label >内容:</label>
+                    <p><script id="editor" name="content" type="text/plain" style="width:518px;height:300px;"></script></p>
+                </div>
+                {/*<div class="form-group">
+                    <label>标签:</label>
+                    <p>
+                        <input type="text" name="tags">
+                    </p>
+                </div>*/}
+                <div class="form-group">
+                    <label>&nbsp;</label>
+                    <p>
+                        <button type="submit">提交</button>
+                    </p>
+                </div>
+            </form>
+        </div>
+    </div>
+<script>
+var ue = UE.getEditor('editor');
+</script>
+    <include file="Public/footer"/>
+</body>
+</html>

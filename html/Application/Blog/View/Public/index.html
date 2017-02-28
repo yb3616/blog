@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><if condition="I('get.catid')">{$data.0.name}<else />首页</if></title>
+<link rel="stylesheet" href="__BLOG__/css/reset.css">
+<link rel="stylesheet" href="__BLOG__/css/index.css">
+{// ue 代码高亮}
+<link rel="stylesheet" href="__BLOG__/plugin/ue/third-party/SyntaxHighlighter/shCoreDefault.css">
+<script src="__BLOG__/plugin/ue/third-party/SyntaxHighlighter/shCore.js"></script>
+<script src="__BLOG__/js/jquery.js"></script>
+<style rel="stylesheet">
+div.entry_content {
+height: 180px;
+overflow: hidden;
+}
+</style>
+</head>
+<body>
+    <include file="header" />
+    <div id="main">
+        <div id="lside">
+            <volist name='data' id='vo'>
+            <article>
+                <h2><a href="__CONTROLLER__/art/id/{$vo.id}" target="_blank">{$vo.title}</a></h2>
+                <div class="entry_header">
+                    <time>{$vo.cre_date}</time>
+                    by
+                    <a href="javascript:void(0);">姚斌</a>
+                    <a class="catlink" href="__CONTROLLER__/index/catid/{$vo.cid}">{$vo.name}</a>
+                    <a class="comment" href="__CONTROLLER__/art/id/{$vo.id}#comments" target="_blank">{$vo.ans_number}条评论</a>
+                </div>
+                <div class="entry_content">{$vo.content}</div>
+            </article>
+            </volist>
+            <div id="pagebar">{$pages}</div>
+        </div>
+        <include file='rside' />
+    </div>
+    <include file='Public/footer' />
+<script>
+$(function(){
+    SyntaxHighlighter.highlight();
+    $("table.syntaxhighlighter").each(function () {
+        if (!$(this).hasClass("nogutter")) {
+            var $gutter = $($(this).find(".gutter")[0]);
+            var $codeLines = $($(this).find(".code .line"));
+            $gutter.find(".line").each(function (i) {
+                $(this).height($($codeLines[i]).height());
+                $($codeLines[i]).height($($codeLines[i]).height());
+            });
+        }
+    });
+});
+</script>
+</body>
+</html>

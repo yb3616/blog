@@ -1,0 +1,1310 @@
+[ 2017-02-24T08:38:26+08:00 ] 10.0.0.104 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-02-24T08:38:33+08:00 ] 10.0.0.104 /index.php/Public/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002052s ]
+
+[ 2017-02-24T08:38:38+08:00 ] 10.0.0.104 /index.php/Public/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+
+[ 2017-02-24T08:38:41+08:00 ] 10.0.0.104 /index.php/Public/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+
+[ 2017-02-24T08:38:46+08:00 ] 10.0.0.104 /index.php/Public/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001967s ]
+
+[ 2017-02-24T08:38:52+08:00 ] 10.0.0.104 /index.php/Public/index/p/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001936s ]
+
+[ 2017-02-24T08:38:55+08:00 ] 10.0.0.104 /index.php/Public/index/catid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004395s ]
+
+[ 2017-02-24T08:39:00+08:00 ] 10.0.0.104 /index.php/Public/index/catid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001912s ]
+
+[ 2017-02-24T08:39:03+08:00 ] 10.0.0.104 /index.php/Public/index/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001902s ]
+
+[ 2017-02-24T08:39:06+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002085s ]
+
+[ 2017-02-24T08:39:10+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002017s ]
+
+[ 2017-02-24T08:39:18+08:00 ] 10.0.0.104 /index.php/Public/index/title/html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001991s ]
+
+[ 2017-02-24T08:39:24+08:00 ] 10.0.0.104 /index.php/Public/index/title/php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+
+[ 2017-02-24T08:39:36+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002048s ]
+
+[ 2017-02-24T08:39:46+08:00 ] 10.0.0.104 /index.php/Public/index/catid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001851s ]
+
+[ 2017-02-24T08:39:47+08:00 ] 10.0.0.104 /index.php/Public/index/catid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001947s ]
+
+[ 2017-02-24T08:39:48+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001892s ]
+
+[ 2017-02-24T08:39:49+08:00 ] 10.0.0.104 /index.php/Public/index/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002153s ]
+
+[ 2017-02-24T08:39:53+08:00 ] 10.0.0.104 /index.php/Public/login/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001928s ]
+
+[ 2017-02-24T08:39:53+08:00 ] 10.0.0.104 /index.php/Public/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001913s ]
+
+[ 2017-02-24T08:40:08+08:00 ] 10.0.0.104 /index.php/Public/login/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003038s ]
+
+[ 2017-02-24T08:40:09+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-02-24T08:40:20+08:00 ] 10.0.0.104 /index.php/Public/art/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002212s ]
+
+[ 2017-02-24T08:40:31+08:00 ] 10.0.0.104 /index.php/Manage/hide/id/18/status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000646s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002460s ]
+
+[ 2017-02-24T08:40:32+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001973s ]
+
+[ 2017-02-24T08:40:40+08:00 ] 10.0.0.104 /index.php/Manage/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002006s ]
+
+[ 2017-02-24T08:40:46+08:00 ] 10.0.0.104 /index.php/Manage/catlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003631s ]
+
+[ 2017-02-24T08:41:07+08:00 ] 10.0.0.104 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001813s ]
+
+[ 2017-02-24T08:41:15+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002272s ]
+
+[ 2017-02-24T08:41:16+08:00 ] 10.0.0.104 /index.php/Public/index/catid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001862s ]
+
+[ 2017-02-24T08:41:17+08:00 ] 10.0.0.104 /index.php/Public/index/catid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001884s ]
+
+[ 2017-02-24T08:41:17+08:00 ] 10.0.0.104 /index.php/Public/index/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002008s ]
+
+[ 2017-02-24T08:41:18+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002038s ]
+
+[ 2017-02-24T08:41:24+08:00 ] 10.0.0.104 /index.php/Public/art/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+
+[ 2017-02-24T08:42:36+08:00 ] 10.0.0.104 /index.php/Public/comment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003181s ]
+
+[ 2017-02-24T08:42:38+08:00 ] 10.0.0.104 /index.php/Public/art/id/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002202s ]
+
+[ 2017-02-24T08:48:45+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006863s ]
+
+[ 2017-02-24T08:48:50+08:00 ] 10.0.0.104 /index.php/Public/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002181s ]
+
+[ 2017-02-24T08:48:53+08:00 ] 10.0.0.104 /index.php/Public/art/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002157s ]
+
+[ 2017-02-24T08:48:59+08:00 ] 10.0.0.104 /index.php/Public/art/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002084s ]
+
+[ 2017-02-24T08:49:05+08:00 ] 10.0.0.104 /index.php/Public/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+
+[ 2017-02-24T08:49:07+08:00 ] 10.0.0.104 /index.php/Public/art/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2017-02-24T08:52:49+08:00 ] 10.0.0.104 /index.php/Public/art/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002315s ]
+
+[ 2017-02-24T08:53:10+08:00 ] 10.0.0.104 /index.php/Public/login/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002009s ]
+
+[ 2017-02-24T08:53:13+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+
+[ 2017-02-24T08:53:25+08:00 ] 10.0.0.104 /index.php/Manage/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003280s ]
+
+[ 2017-02-24T08:53:28+08:00 ] 10.0.0.104 /index.php/Manage/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001929s ]
+
+[ 2017-02-24T08:54:39+08:00 ] 10.0.0.104 /index.php/Manage/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+
+[ 2017-02-24T08:55:00+08:00 ] 10.0.0.104 /index.php/Manage/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002347s ]
+
+[ 2017-02-24T08:55:25+08:00 ] 10.0.0.104 /index.php/Manage/catlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001858s ]
+
+[ 2017-02-24T08:55:28+08:00 ] 10.0.0.104 /index.php/Manage/catadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002085s ]
+
+[ 2017-02-24T08:55:47+08:00 ] 10.0.0.104 /index.php/Manage/catadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001994s ]
+
+[ 2017-02-24T08:55:49+08:00 ] 10.0.0.104 /index.php/Manage/catlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002151s ]
+
+[ 2017-02-24T08:55:51+08:00 ] 10.0.0.104 /index.php/Manage/catadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001866s ]
+
+[ 2017-02-24T08:56:17+08:00 ] 10.0.0.104 /index.php/Public/art/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+
+[ 2017-02-24T09:08:56+08:00 ] 10.0.0.104 /index.php/Management/catadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006622s ]
+ERR: 非法操作:catadd
+
+[ 2017-02-24T09:09:20+08:00 ] 10.0.0.104 /index.php/Management/catadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001860s ]
+
+[ 2017-02-24T09:09:33+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001888s ]
+ERR: 非法操作:catadds
+
+[ 2017-02-24T09:10:30+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001908s ]
+
+[ 2017-02-24T09:12:27+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001931s ]
+
+[ 2017-02-24T09:12:28+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+
+[ 2017-02-24T09:12:28+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2017-02-24T09:12:29+08:00 ] 10.0.0.104 /index.php/Manage/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+
+[ 2017-02-24T09:12:56+08:00 ] 10.0.0.104 /index.php/public/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-02-24T09:13:00+08:00 ] 10.0.0.104 /index.php/publicmentcatadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001737s ]
+
+[ 2017-02-24T09:13:04+08:00 ] 10.0.0.104 /index.php/publicment/catadds
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2017-02-24T09:13:10+08:00 ] 10.0.0.104 /index.php/public
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-02-24T09:13:22+08:00 ] 10.0.0.104 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+
+[ 2017-02-24T09:13:25+08:00 ] 10.0.0.104 /index.php/Public/index/catid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001802s ]
+
+[ 2017-02-24T09:13:26+08:00 ] 10.0.0.104 /index.php/Public/index/catid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001942s ]
+
+[ 2017-02-24T09:13:26+08:00 ] 10.0.0.104 /index.php/Public/index/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+
+[ 2017-02-24T09:13:27+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001777s ]
+
+[ 2017-02-24T09:16:46+08:00 ] 10.0.0.104 /index.php/Public/indexs/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001837s ]
+ERR: 非法操作:indexs
+
+[ 2017-02-24T09:17:49+08:00 ] 10.0.0.104 /index.php/Public/indexs/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001941s ]
+ERR: 非法操作:indexs
+
+[ 2017-02-24T09:18:06+08:00 ] 10.0.0.104 /index.php/Public/indexs/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001878s ]
+ERR: 非法操作:indexs
+
+[ 2017-02-24T09:18:10+08:00 ] 10.0.0.104 /index.php/Publicsss/indexs/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001801s ]
+ERR: 模板不存在:./Application/Blog/View/Public/404.html
+
+[ 2017-02-24T09:18:16+08:00 ] 10.0.0.104 /index.php/Publicsss/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001765s ]
+ERR: 模板不存在:./Application/Blog/View/Public/404.html
+
+[ 2017-02-24T09:18:21+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001761s ]
+
+[ 2017-02-24T09:39:03+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+
+[ 2017-02-24T09:39:34+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+
+[ 2017-02-24T09:40:26+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001790s ]
+
+[ 2017-02-24T09:40:45+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+
+[ 2017-02-24T09:41:00+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001732s ]
+
+[ 2017-02-24T09:41:43+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001837s ]
+
+[ 2017-02-24T09:41:49+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001865s ]
+
+[ 2017-02-24T09:41:58+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001809s ]
+
+[ 2017-02-24T09:43:12+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+
+[ 2017-02-24T09:52:34+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001847s ]
+
+[ 2017-02-24T09:52:35+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001802s ]
+
+[ 2017-02-24T09:52:36+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001814s ]
+
+[ 2017-02-24T09:52:38+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001831s ]
+
+[ 2017-02-24T09:52:39+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001763s ]
+
+[ 2017-02-24T09:52:40+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-02-24T09:52:41+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001779s ]
+
+[ 2017-02-24T09:52:42+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001739s ]
+
+[ 2017-02-24T09:52:43+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001896s ]
+
+[ 2017-02-24T09:52:44+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+
+[ 2017-02-24T09:52:46+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001761s ]
+
+[ 2017-02-24T09:52:47+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001752s ]
+
+[ 2017-02-24T09:52:49+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001840s ]
+
+[ 2017-02-24T09:52:51+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001893s ]
+
+[ 2017-02-24T09:52:53+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001907s ]
+
+[ 2017-02-24T09:52:55+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001918s ]
+
+[ 2017-02-24T09:52:57+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-02-24T09:52:59+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+
+[ 2017-02-24T09:53:01+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001902s ]
+
+[ 2017-02-24T09:53:03+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001943s ]
+
+[ 2017-02-24T09:53:05+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001882s ]
+
+[ 2017-02-24T09:53:07+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+
+[ 2017-02-24T09:53:09+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001776s ]
+
+[ 2017-02-24T09:53:11+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-02-24T09:53:13+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+
+[ 2017-02-24T09:53:15+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-02-24T09:53:17+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+
+[ 2017-02-24T09:53:19+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001915s ]
+
+[ 2017-02-24T09:53:21+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001903s ]
+
+[ 2017-02-24T09:53:23+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001897s ]
+
+[ 2017-02-24T09:53:30+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2017-02-24T09:53:32+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001885s ]
+
+[ 2017-02-24T09:56:12+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001798s ]
+
+[ 2017-02-24T09:56:24+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-02-24T09:58:33+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-02-24T09:58:34+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001815s ]
+
+[ 2017-02-24T09:58:36+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001808s ]
+
+[ 2017-02-24T09:58:37+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+
+[ 2017-02-24T09:58:38+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001786s ]
+
+[ 2017-02-24T09:58:39+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001757s ]
+
+[ 2017-02-24T09:58:40+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001804s ]
+
+[ 2017-02-24T09:58:42+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+
+[ 2017-02-24T09:58:43+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+
+[ 2017-02-24T09:58:44+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-02-24T09:58:45+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-02-24T09:58:46+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001909s ]
+
+[ 2017-02-24T09:58:47+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001759s ]
+
+[ 2017-02-24T09:58:48+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-02-24T09:58:50+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+
+[ 2017-02-24T09:58:52+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001765s ]
+
+[ 2017-02-24T09:58:54+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2017-02-24T09:58:56+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+
+[ 2017-02-24T09:58:58+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001762s ]
+
+[ 2017-02-24T09:59:00+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001773s ]
+
+[ 2017-02-24T09:59:01+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+
+[ 2017-02-24T09:59:03+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+
+[ 2017-02-24T09:59:05+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-02-24T09:59:07+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+
+[ 2017-02-24T09:59:08+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+
+[ 2017-02-24T09:59:09+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-02-24T09:59:10+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001799s ]
+
+[ 2017-02-24T09:59:11+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001743s ]
+
+[ 2017-02-24T09:59:12+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001803s ]
+
+[ 2017-02-24T09:59:13+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-02-24T09:59:15+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+
+[ 2017-02-24T09:59:16+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-02-24T09:59:17+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+
+[ 2017-02-24T09:59:18+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001855s ]
+
+[ 2017-02-24T09:59:19+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+
+[ 2017-02-24T09:59:20+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+
+[ 2017-02-24T09:59:21+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001753s ]
+
+[ 2017-02-24T09:59:23+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001742s ]
+
+[ 2017-02-24T09:59:24+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+
+[ 2017-02-24T09:59:25+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+
+[ 2017-02-24T09:59:26+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2017-02-24T09:59:27+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-02-24T09:59:28+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+
+[ 2017-02-24T09:59:29+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001973s ]
+
+[ 2017-02-24T09:59:30+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001772s ]
+
+[ 2017-02-24T09:59:31+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001753s ]
+
+[ 2017-02-24T09:59:32+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001898s ]
+
+[ 2017-02-24T09:59:34+08:00 ] 10.0.0.104 /index.php/Public/success/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001756s ]
+
+[ 2017-02-24T09:59:55+08:00 ] 10.0.0.104 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001910s ]
+
+[ 2017-02-24T09:59:58+08:00 ] 10.0.0.104 /index.php/Public/login/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001769s ]
+
+[ 2017-02-24T10:00:02+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001875s ]
+
+[ 2017-02-24T10:00:13+08:00 ] 10.0.0.104 /index.php/public/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001805s ]
+
+[ 2017-02-24T10:00:23+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001742s ]
+
+[ 2017-02-24T10:01:15+08:00 ] 10.0.0.104 /index.php/Public/art/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+
+[ 2017-02-24T10:01:20+08:00 ] 10.0.0.104 /index.php/Public/login/id/18
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+
+[ 2017-02-24T10:01:26+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001802s ]
+
+[ 2017-02-24T10:01:30+08:00 ] 10.0.0.104 /index.php/Public/art/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001776s ]
+
+[ 2017-02-24T10:01:34+08:00 ] 10.0.0.104 /index.php/Public/login/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001940s ]
+
+[ 2017-02-24T10:01:37+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-02-24T10:02:23+08:00 ] 10.0.0.104 /index.php/Public/art/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001884s ]
+
+[ 2017-02-24T10:02:27+08:00 ] 10.0.0.104 /index.php/Public/login/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001813s ]
+
+[ 2017-02-24T10:02:30+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-02-24T10:03:06+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001963s ]
+
+[ 2017-02-24T10:03:06+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001762s ]
+
+[ 2017-02-24T10:03:07+08:00 ] 10.0.0.104 /index.php/Public/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+
+[ 2017-02-24T10:03:30+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001782s ]
+
+[ 2017-02-24T10:03:34+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001906s ]
+
+[ 2017-02-24T10:03:45+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001952s ]
+
+[ 2017-02-24T10:03:48+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2017-02-24T10:03:58+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001764s ]
+
+[ 2017-02-24T10:04:01+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+
+[ 2017-02-24T10:04:03+08:00 ] 10.0.0.104 /index.php/Public/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-02-24T10:04:14+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+
+[ 2017-02-24T10:04:17+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+
+[ 2017-02-24T10:04:28+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001796s ]
+
+[ 2017-02-24T10:04:31+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001754s ]
+
+[ 2017-02-24T10:04:33+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001787s ]
+
+[ 2017-02-24T10:04:36+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001793s ]
+
+[ 2017-02-24T10:04:38+08:00 ] 10.0.0.104 /index.php/Public/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001806s ]
+
+[ 2017-02-24T10:04:46+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001810s ]
+
+[ 2017-02-24T10:04:49+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001762s ]
+
+[ 2017-02-24T10:08:40+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001922s ]
+
+[ 2017-02-24T10:08:44+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+
+[ 2017-02-24T10:08:47+08:00 ] 10.0.0.104 /index.php/Public/code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+
+[ 2017-02-24T10:09:19+08:00 ] 10.0.0.104 /index.php/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+
+[ 2017-02-24T10:09:20+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001822s ]
+
+[ 2017-02-24T10:09:27+08:00 ] 10.0.0.104 /index.php/Public/art/id/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+
+[ 2017-02-24T10:09:33+08:00 ] 10.0.0.104 /index.php/Manage/hide/id/17/status/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+
+[ 2017-02-24T10:09:35+08:00 ] 10.0.0.104 /index.php/Manage/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+
+[ 2017-02-24T10:09:40+08:00 ] 10.0.0.104 /index.php/Public/art/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001774s ]
+
+[ 2017-02-24T10:09:52+08:00 ] 10.0.0.104 /index.php/Public/comment
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001795s ]
+
+[ 2017-02-24T10:09:53+08:00 ] 10.0.0.104 /index.php/Public/art/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001778s ]
+
+[ 2017-02-24T10:10:02+08:00 ] 10.0.0.104 /index.php/Public/art/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+
+[ 2017-02-24T10:10:05+08:00 ] 10.0.0.104 /index.php/Public/art/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+
+[ 2017-02-24T10:10:14+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001823s ]
+
+[ 2017-02-24T10:16:46+08:00 ] 10.0.0.104 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001776s ]
+
+[ 2017-02-24T14:10:27+08:00 ] 101.70.138.185 /index.php/back
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 2' at line 1
+
+[ 2017-02-24T14:10:39+08:00 ] 101.70.138.185 /index.php/back/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 2' at line 1
+
+[ 2017-02-24T14:11:53+08:00 ] 101.70.138.185 /index.php/back/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 2' at line 1
+
+[ 2017-02-24T14:12:17+08:00 ] 101.70.138.185 /index.php/public/back/index
+ERR: 非法操作:back
+
+[ 2017-02-24T14:12:32+08:00 ] 101.70.138.185 /index.php/Back/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = 2' at line 1
+
+[ 2017-02-24T16:43:01+08:00 ] 101.70.138.185 /index.php/Manage/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-24T16:43:07+08:00 ] 101.70.138.185 /index.php/public/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000292s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-02-24T16:43:43+08:00 ] 101.70.138.185 /index.php/Manage/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-02-24T16:43:50+08:00 ] 101.70.138.185 /index.php/Public/art/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Undefined variable: where /usr/share/nginx/html/Application/Blog/Controller/PublicController.class.php 第 96 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-02-24T16:43:53+08:00 ] 101.70.138.185 /index.php/Public/index/catid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000267s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-02-24T16:43:54+08:00 ] 101.70.138.185 /index.php/Public/index/catid/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Undefined index: 0 /usr/share/nginx/html/Application/Runtime/Cache/Blog/ef4a1f89222b76affe46d0201fad7895.php 第 5 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-02-24T16:43:55+08:00 ] 101.70.138.185 /index.php/Public/index/catid/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003549s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000262s ]
+
+[ 2017-02-24T16:43:56+08:00 ] 101.70.138.185 /index.php/Public/index/catid/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031667s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-02-24T16:43:57+08:00 ] 101.70.138.185 /index.php/Public/index/catid/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-02-24T16:43:58+08:00 ] 101.70.138.185 /index.php/Public/art/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+NOTIC: [8] Undefined variable: where /usr/share/nginx/html/Application/Blog/Controller/PublicController.class.php 第 96 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000288s ]
+

@@ -1,0 +1,6 @@
+[ 2017-02-22T16:52:08+08:00 ] 10.0.0.104 /index.php/Public/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001816s ]
+ERR: 无法加载模块:Public
+
